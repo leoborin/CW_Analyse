@@ -1,16 +1,6 @@
 # 2 . Validação de Hipótese ColdWheel
 
-![image.png](attachment:aca6e03a-70a4-450c-be69-222130daf3c6:image.png)
-
-Sem BOX-COX Distribuição de resíduos não atende a normalidade
-
-![image.png](attachment:5eb021a9-0872-406f-9719-132ceebc2b1c:image.png)
-
- Com  BOX-COX Distribuição de resíduos atende a normalidade
-
-![image.png](attachment:c69ee77c-6809-4549-aeda-9d91fb521961:image.png)
-
-![image.png](attachment:2e7013cd-824e-4c24-a7d3-30e28029e974:image.png)
+![image](https://github.com/user-attachments/assets/9b4350c0-f842-4046-bdff-c6e01848bcfe)
 
 R-squared:  0.922
 
